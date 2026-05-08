@@ -64,7 +64,7 @@ After identifying the issue, the architecture was redesigned in a more secure wa
 - Installed antivirus protection
 - Restricted direct public access
 
-![Improved Architecture](../assets/part2-openvpn-architecture.png)
+![Improved Architecture](assets/part2-openvpn-architecture.png)
 
 ---
 
